@@ -1,5 +1,6 @@
 ![Web Developer](https://media.licdn.com/dms/image/D5616AQHlfyhBDQgZ7Q/profile-displaybackgroundimage-shrink_350_1400/0/1704815127075?e=1710374400&v=beta&t=vEM6slVIuuAN9DwYZubNijztS8EU4Jmyld_28G7WhI4)
-## Hi there 👋, I'm Muhaiminul Islam
+## Hi there,
+###I'm Muhaiminul Islam
 ### Web Developer
 
 
