@@ -1,6 +1,7 @@
-### Hi there 👋, I'm Muhaiminul Islam
-#### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/307575305_3250587021935713_4635079075247759850_n.jpg?stp=dst-jpg_p480x480&_nc_cat=108&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeE2SIW3WN8HSwFfR6aYEiunfWrz96Vdqgp9avP3pV2qCgc2Etg26Z-5aypIqXLfrMmvtbQkVH1gWvorQ3RVZtUe&_nc_ohc=aWu9shhAy3MAX9dzBxD&_nc_ht=scontent.fdac5-2.fna&oh=00_AfAoAHzm3Jc-uMuD6pvxdGt1yhaD7kM91jgJ5gyuJAkcpA&oe=65A19FE5)
+## Hi there 👋, I'm Muhaiminul Islam
+### Web Developer
+
 
 It's wonderful to hear that I have a passion for learning new skills! JavaScript is a great programming language to learn, and it's widely used in web development. It's fantastic that I prioritize client satisfaction, as that is key to building a successful career.
 
